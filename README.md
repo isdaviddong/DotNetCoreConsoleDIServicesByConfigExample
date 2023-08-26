@@ -6,7 +6,7 @@
 
 ### test it
 ```
-git clone  https://github.com/isdaviddong/DotNetCoreConsoleDIServicesExample.git  
+git clone  https://github.com/isdaviddong/DotNetCoreConsoleDIServicesByConfigExample.git
 ```
 
 把程式碼的第10行槓掉，改成第11行那樣，會有什麼結果?
